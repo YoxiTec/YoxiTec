@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @YoxiTec
-- 👀 I’m interested in combining the field of Civil Engineering with Data Science and ML
+- 👀 I’m interested in combining the field of Geotechnical Engineering with Data Science and ML
 - 🌱 I’m currently learning Machine Learning Skills
-- 💞️ I’m looking to collaborate on exploring the synergy between Civil Engineering and Data Science, ready to collaborate on innovative projects
 - 📫 How to reach me https://www.linkedin.com/in/yohan-perera-421974170/
 - 💞️ Stay Blessed 💞️
 <!---
